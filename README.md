@@ -118,7 +118,11 @@ The Smart Snack Vending System is designed to provide an automated and efficient
 ##  Author
 
 **Vishwa Anjana**
+
 Department of Physics
+
+University Of Colombo
+
 Embedded Systems Project
 
 ---
